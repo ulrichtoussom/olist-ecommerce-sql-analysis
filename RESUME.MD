@@ -24,7 +24,7 @@ The objective is not only to write SQL queries, but to design and implement an e
 >Pandas       
 >Psycopg       
 >Jupyter Notebook       
->Docker (optional)       
+>Docker        
 >Git       
 >GitHub       
 
